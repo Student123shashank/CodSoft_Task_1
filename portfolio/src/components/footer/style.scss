@@ -1,0 +1,12 @@
+.footer {
+    background-color: transparent;
+    color: var(--yellow-theme-sub-text-color);
+    text-align: center;
+    padding: 20px 0;
+    font-size: 16px;
+    &__content {
+      max-width: 1200px;
+      margin: 150px;
+      padding: 0 20px;
+    }
+  }
